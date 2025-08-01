@@ -24,3 +24,6 @@ cd docker_ps_pretty && pipx install .
 shout out to chatgpt for vibe coding this for me
 
 I'm also just aliasing it as `alias dps="python3 ~/docker-ps-pretty.py"`
+
+### dsps in action
+![Docker PS Pretty Demo](./dpsp.png)
