@@ -18,7 +18,7 @@ or if you're on ubuntu or something that enforces PEP 668, turned it into a pipx
 sudo apt install pipx
 pipx ensurepath
 pipx runpip rich-cli install rich
-cd docker_ps_pretty && pipx install .
+cd Docker-PS-Pretty && pipx install .
 ```
 
 shout out to chatgpt for vibe coding this for me
