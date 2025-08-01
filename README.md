@@ -30,5 +30,5 @@ or if you just want to copy and paste
 echo 'alias dps="python3 ~/docker-ps-pretty.py"' >> ~/.bashrc && source ~/.bashrc
 ```
 
-### dsps in action
+### dpsp in action
 ![Docker PS Pretty Demo](./dpsp.png)
