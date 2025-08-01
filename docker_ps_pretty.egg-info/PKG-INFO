@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: docker-ps-pretty
+Version: 0.1.0
+Summary: Prettified docker ps output with filters, sort, export
+Author: Dan
+Requires-Dist: rich

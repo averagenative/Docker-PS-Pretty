@@ -1,0 +1,2 @@
+[console_scripts]
+docker-ps-pretty = docker_ps_pretty.__main__:main

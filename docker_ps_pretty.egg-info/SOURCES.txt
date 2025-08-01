@@ -1,0 +1,10 @@
+pyproject.toml
+setup.cfg
+docker_ps_pretty/__init__.py
+docker_ps_pretty/__main__.py
+docker_ps_pretty.egg-info/PKG-INFO
+docker_ps_pretty.egg-info/SOURCES.txt
+docker_ps_pretty.egg-info/dependency_links.txt
+docker_ps_pretty.egg-info/entry_points.txt
+docker_ps_pretty.egg-info/requires.txt
+docker_ps_pretty.egg-info/top_level.txt
