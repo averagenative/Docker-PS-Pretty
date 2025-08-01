@@ -25,7 +25,10 @@ shout out to chatgpt for vibe coding this for me
 
 I'm also just aliasing it as `alias dps="python3 ~/docker-ps-pretty.py"`
 or if you just want to copy and paste
-`echo 'alias dps="python3 ~/docker-ps-pretty.py"' >> ~/.bashrc && source ~/.bashrc`
+
+```bash
+echo 'alias dps="python3 ~/docker-ps-pretty.py"' >> ~/.bashrc && source ~/.bashrc
+```
 
 ### dsps in action
 ![Docker PS Pretty Demo](./dpsp.png)
